@@ -14,8 +14,7 @@ sudo python3 system.py
 
 obs: 
 	* olhar apresentação;
-
 	* saídas dos tempos de execuções são geradas.
-	
+
 
 
