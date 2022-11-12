@@ -4,6 +4,7 @@ Trabalho final da disciplina de sistemas distribuídos (para fins didáticos ape
 
 ### Requirements:
 `sudo pip3 install mininet`
+
 `sudo pip3 install numpy`
 
 ### Help:
