@@ -12,7 +12,7 @@ Trabalho final da disciplina de sistemas distribuídos (para fins didáticos ape
 ### Run:
 `sudo python3 system.py`
 
-Note: 
+### Note: 
 Olhar apresentação. As saídas dos tempos de execuções são geradas.
 
 
